@@ -25,7 +25,7 @@ _____________
 
 ## 2 - PROJE BAĞLANTI ŞEMASI
 
-![baglantiSemasi](rapor/TEZ/img/tez_baglanti_semasi-baglanti.png)
+![](Rapor/TEZ/img/tez_baglanti_semasi-baglanti.png)
 
 Robot kolun bağlantı şeması yukarıda verildiği gibidir. Servo motorların kontrolü için 
 geliştirme kartının beslemesi yetersiz kaldığı için harici bir güç kaynağından besleme 
