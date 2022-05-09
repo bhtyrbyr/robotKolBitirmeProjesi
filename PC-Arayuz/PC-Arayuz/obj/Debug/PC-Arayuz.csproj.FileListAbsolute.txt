@@ -1,0 +1,20 @@
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.exe.config
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.exe
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.pdb
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC_Arayuz.Form1.resources
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC_Arayuz.Properties.Resources.resources
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csproj.GenerateResource.cache
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.exe
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.pdb
+C:\Users\bhtyr\Desktop\Tez-Robot Kol Tasarim\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csprojAssemblyReference.cache
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.exe.config
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.exe
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\bin\Debug\PC-Arayuz.pdb
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csprojAssemblyReference.cache
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC_Arayuz.Form1.resources
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC_Arayuz.Properties.Resources.resources
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csproj.GenerateResource.cache
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.exe
+C:\Users\bhtyr\Desktop\tez-robot-kol-calismasi\PC-Arayuz\PC-Arayuz\obj\Debug\PC-Arayuz.pdb
